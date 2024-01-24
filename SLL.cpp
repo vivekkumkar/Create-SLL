@@ -101,3 +101,44 @@ int SLL::countNodes()
 	}
 	return c;
 }
+
+
+
+
+
+output:-
+
+	Enetr 1st List
+
+ Enter number of nodes : 4
+
+ Enetr data : 10
+
+ Enetr data : 20
+
+ Enetr data : 30
+
+ Enetr data : 40
+
+Showing 1st List:-
+
+10 20 30 40
+
+Enter 2nd List
+
+ Enter number of nodes : 3
+
+ Enetr data : 100
+
+ Enetr data : 200
+
+ Enetr data : 300
+
+Showing 2nd List:-
+
+100 200 300
+
+ Number of Nodes(1st List) :- 4
+
+ Number of Nodes(2nd List):- 3
+--------------------------------
